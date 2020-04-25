@@ -1,0 +1,6 @@
+.messages {
+  overflow: auto;
+  flex: auto;
+  background: darkgrey;
+  outline: 1px solid grey;
+}
